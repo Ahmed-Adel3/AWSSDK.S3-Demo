@@ -1,3 +1,7 @@
+
+# ➽To use this repo :
+☞You just to put your ows __AWS Access Key__ and __AWS Secret Access Key__ in the main method in the console app and try.
+_________________________________________________________________
 # ➽What is the AWS SDK for .NET?
 ☞The AWS SDK for .NET makes it easier to build .NET applications that tap into cost-effective, scalable, and reliable AWS services such as Amazon Simple Storage Service (`Amazon S3`) and Amazon Elastic Compute Cloud (`Amazon EC2`). The SDK simplifies the use of AWS services by providing a set of libraries that are consistent and familiar for .NET developers.
 
@@ -47,6 +51,4 @@ PM> Install-Package AWSSDK.S3
 ```csharp
 PM> Install-Package AWSSDK.S3 -Version 3.3.106.6
 ```
-_________________________________________________________________
-# ➽To use this repo :
-☞You just to put your ows AWS Access Key and AWS Secret Access Key in the main method in the console app and try.
+
